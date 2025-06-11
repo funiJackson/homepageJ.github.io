@@ -1,2 +1,0 @@
-# homepageJ.github.io
-homepage 
